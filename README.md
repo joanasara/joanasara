@@ -20,5 +20,4 @@
        <img align="center" alt="sara-linkedin" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" style="max-width: 100%;">
        </a>
 
-
 ## **My Skills**

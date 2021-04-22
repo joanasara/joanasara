@@ -16,5 +16,9 @@
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/joana-sara-82212a197/" target="_black">
-       <img align="center" alt="sara-linkedin" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg">
+       <img align="center" alt="sara-linkedin" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" style="max-width: 100%;>
+       </a>
+
+  <a href="https://instagram.com/johanna_sarah.ls?igshid=jkedgos4frii" target="_black">
+       <img align="center" alt="sara-instagran" height="70" width="80" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagran.svg" style="max-width: 100%;">
        </a>

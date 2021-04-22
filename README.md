@@ -1,7 +1,9 @@
-### Hi there 👋
+#Hey 👋
+my name and Joana Sara, l’m from Brazil 🇧🇷 I’m A programming student with a focus on BackEnd 👩‍💻, I am currently in the last year of college in the graduation of analysis and systems development 🎓
 
-<!--
-**joanasara/joanasara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am passionate about solving problems and learning. Always open to new challenges and ready to face change
+
+
 
 Here are some ideas to get you started:
 

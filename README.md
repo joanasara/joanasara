@@ -22,7 +22,7 @@
 
 ## My Skills
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="rails" width="50" height="50"  style="max-width: 100%;"></img>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="rails" width="50" height="50"style="max-width: 100%;"></img>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="rails" width="50" height="50" style="max-width: 100%;"></img>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="rails" width="50" height="50"  style="max-width: 100%;"></img>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="rails" width="50" height="50"  style="max-width: 100%;"></img>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="rails" width="50" height="50"  style="max-width: 100%;"></img>

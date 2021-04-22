@@ -32,3 +32,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="rails" width="50" height="50"  style="max-width: 100%;"></img>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original-wordmark.svg" alt="rails" width="50" height="50"  style="max-width: 100%;"></img>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="rails" width="60" height="60"  style="max-width: 100%;"></img>
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="rails" width="60" height="60"  style="max-width: 100%;"></img>

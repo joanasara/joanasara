@@ -1,3 +1,4 @@
+
 # Hey 👋
 ***my name and Joana Sara, l'm from Brazil 🇧🇷  I'm A programming student with a focus on BackEnd 👩‍💻, I am currently in the last year of college in the graduation of analysis and systems development 🎓***
 
@@ -8,9 +9,10 @@
 
  
 
- - 📍****from Parnaiba piaui living in Fortaleza ceara****
+ - 📍**from Parnaiba piaui living in Fortaleza ceara**
  - 👩🏻‍💻 ***Bacck-End software development analyst***
-
+- 🎓📚 **undergraduate Systems analysis and development**
 
 
    
+

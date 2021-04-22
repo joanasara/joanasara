@@ -21,3 +21,4 @@
        </a>
 
 ## My Skills
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="rails" width="40" height="40"  style="max-width: 100%;"></img>

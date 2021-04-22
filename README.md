@@ -18,4 +18,4 @@
 ## Connect with me:
 <a href="https://www.linkedin.com/in/joana-sara-82212a197/" target="_black>
 <img align="center" alt="sara-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg">
-
+</a>

@@ -10,7 +10,7 @@
  
 
  - 📍**from Parnaiba piaui living in Fortaleza ceara**
- - 👩🏻‍💻 ***Bacck-End software development analyst***
+ - 👩🏻‍💻 ***Back-End software development analyst***
 - 🎓📚 **undergraduate Systems analysis and development**
 
 

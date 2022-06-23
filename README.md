@@ -11,8 +11,8 @@
 
  - 📍**from Parnaiba piaui living in Fortaleza ceara**
  - 👩🏻‍💻 ***Back-End software development analyst***
-- 🎓📚 **majored in systems analysis and development**
-- - 🎓📚 **postgraduate degree in software engineering, devops and cloud computing**
+- 🎓 **majored in systems analysis and development**
+- 🎓📚 **postgraduate degree in software engineering, devops and cloud computing**
 
 
 ## Connect with me:

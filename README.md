@@ -34,6 +34,8 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original-wordmark.svg" alt="rails" width="60" height="60"  style="max-width: 100%;"></img>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="rails" width="60" height="60"  style="max-width: 100%;"></img>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="rails" width="60" height="60"  style="max-width: 100%;"></img>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="rails" width="60" height="60"  style="max-width: 100%;"></img>
+   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="rails" width="60" height="60"  style="max-width: 100%;"></img>
  
     
    

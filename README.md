@@ -29,6 +29,13 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="rails" width="60" height="60"  style="max-width: 100%;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" alt="rails" width="60" height="60"  style="max-width: 100%;">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg" alt="rails" width="60" height="60"  style="max-width: 100%;">
-    
-   
-
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="rails" width="60" height="60"  style="max-width: 100%;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" alt="rails" width="60" height="60"  style="max-width: 100%;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" alt="rails" width="60" height="60"  style="max-width: 100%;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="rails" width="60" height="60"  style="max-width: 100%;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="rails" width="60" height="60"  style="max-width: 100%;">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" alt="rails" width="60" height="60"  style="max-width: 100%;">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="rails" width="60" height="60"  style="max-width: 100%;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="rails" width="60" height="60"  style="max-width: 100%;">
+      
+     

@@ -26,13 +26,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="rails" width="60" height="60" style="max-width: 100%;"></img>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="rails" width="60" height="60"  style="max-width: 100%;"></img>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="rails" width="60" height="60"  style="max-width: 100%;"></img>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="rails" width="60" height="60"  style="max-width: 100%;"></img>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="rails" width="60" height="60"  style="max-width: 100%;"></img>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="rails" width="60" height="60"  style="max-width: 100%;"></img>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="rails" width="60" height="60"  style="max-width: 100%;"></img>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="rails" width="60" height="60"  style="max-width: 100%;"></img>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original-wordmark.svg" alt="rails" width="60" height="60"  style="max-width: 100%;"></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original-wordmark.svg" alt="rails" width="60" height="60"  style="max-width: 100%;"></img>
+100%;"></img>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original-wordmark.svg" alt="rails" width="60" height="60"  style="max-width:  100%;"></img>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="rails" width="60" height="60"  style="max-width: 100%;">
  
     

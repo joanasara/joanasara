@@ -17,7 +17,7 @@
 
 ## Connect with me:
 
-<a href="https://www.linkedin.com/in/joana-sara-82212a197/" target="_black">
+<a href="https://www.linkedin.com/in/joana-sara-82212a197/](https://www.linkedin.com/in/joana-leite-82212a197/" target="_black">
        <img align="center" alt="sara-linkedin" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" style="max-width: 100%;">
        </a>
 

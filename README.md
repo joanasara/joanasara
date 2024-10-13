@@ -1,18 +1,12 @@
 
-# Hey 👋
-***my name and Joana Sara, from Brazil, a student of programming with a focus on BackEnd 👩‍💻, currently in the last year of college in undergraduate studies in systems analysis and development 🎓***
 
-***I am passionate about solving problems and learning. Always open to new challenges and ready to face change***
+👋 Olá! Sou Joana, engenheira de software com formação em Análise e Desenvolvimento de Sistemas e Sistemas de Informação, além de uma pós-graduação em Engenharia de Software.
 
+Minha especialidade é o desenvolvimento back-end, com foco em Java, mas adoro explorar novas linguagens como Python, Golang, entre outras. Tenho uma paixão por tecnologia e estou sempre estudando as novidades do setor, buscando melhorar minhas habilidades e me manter atualizada.
 
-## 🌎"**Quanto mais eu sei, mais eu sou**"🧠
+Quando não estou codificando, você pode me encontrar lendo sobre novas práticas e metodologias de engenharia de software, ou explorando novas ferramentas e frameworks para construir soluções mais eficientes e robustas.
 
- 
-
- - 📍**from Parnaiba piaui living in Fortaleza ceara**
- - 👩🏻‍💻 ***Back-End software development analyst***
-- 🎓 **majored in systems analysis and development**
-- 🎓📚 **postgraduate degree in software engineering, devops and cloud computing**
+Sinta-se à vontade para explorar meus projetos e entrar em contato! 🚀
 
 
 ## Connect with me:
